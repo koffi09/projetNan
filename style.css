@@ -1,0 +1,70 @@
+/* general */
+
+body {
+margin:0;
+padding: 0;
+
+}
+ .image img {
+position:relative;
+width: 1500px;
+height:400px; 
+margin-top: -20px
+
+}
+.image h1{
+  position:relative;
+  top:-300px;
+ text-align:center;
+font-weight: bold;
+font-size:50px;
+color:#fff;
+}
+
+.navbar{
+
+margin-top:20px;
+color:orange;
+}
+
+ .navbar nav ul li  {
+
+  color:#333; 
+
+}
+
+header  {
+
+color:blue;
+
+}
+.color{
+color:blue;
+
+
+}
+
+
+/*  article */
+
+
+.article article h2 {
+
+
+	font-family: 'Patrick Hand', cursive;
+text-align:center;
+font-size:40px;
+color:black;
+margin-top:-30px;
+}
+
+footer{
+
+background-color: #333;
+position:relative;
+   bottom:-100px;
+}
+
+#contenu{
+	background-color:#A9A9A9;
+}
